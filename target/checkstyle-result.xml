@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="10.14.1">
+<file name="C:\Users\pH\Desktop\explorateur_fichiers\src\main\java\fr\uvsq\pglp\project\App.java">
+</file>
+<file name="C:\Users\pH\Desktop\explorateur_fichiers\src\main\java\fr\uvsq\pglp\project\AppelCommande.java">
+</file>
+<file name="C:\Users\pH\Desktop\explorateur_fichiers\src\main\java\fr\uvsq\pglp\project\CommandeContext.java">
+</file>
+<file name="C:\Users\pH\Desktop\explorateur_fichiers\src\main\java\fr\uvsq\pglp\project\commandes\Commande.java">
+</file>
+<file name="C:\Users\pH\Desktop\explorateur_fichiers\src\main\java\fr\uvsq\pglp\project\commandes\CommandeAddNote.java">
+</file>
+<file name="C:\Users\pH\Desktop\explorateur_fichiers\src\main\java\fr\uvsq\pglp\project\commandes\CommandeCd.java">
+</file>
+<file name="C:\Users\pH\Desktop\explorateur_fichiers\src\main\java\fr\uvsq\pglp\project\commandes\CommandeCopyCut.java">
+</file>
+<file name="C:\Users\pH\Desktop\explorateur_fichiers\src\main\java\fr\uvsq\pglp\project\commandes\CommandeDel.java">
+</file>
+<file name="C:\Users\pH\Desktop\explorateur_fichiers\src\main\java\fr\uvsq\pglp\project\commandes\CommandeDeleteNote.java">
+</file>
+<file name="C:\Users\pH\Desktop\explorateur_fichiers\src\main\java\fr\uvsq\pglp\project\commandes\CommandeFind.java">
+</file>
+<file name="C:\Users\pH\Desktop\explorateur_fichiers\src\main\java\fr\uvsq\pglp\project\commandes\CommandeGoBack.java">
+</file>
+<file name="C:\Users\pH\Desktop\explorateur_fichiers\src\main\java\fr\uvsq\pglp\project\commandes\CommandeHelp.java">
+</file>
+<file name="C:\Users\pH\Desktop\explorateur_fichiers\src\main\java\fr\uvsq\pglp\project\commandes\CommandeListDirectory.java">
+</file>
+<file name="C:\Users\pH\Desktop\explorateur_fichiers\src\main\java\fr\uvsq\pglp\project\commandes\CommandeMkdir.java">
+</file>
+<file name="C:\Users\pH\Desktop\explorateur_fichiers\src\main\java\fr\uvsq\pglp\project\commandes\CommandeNotes.java">
+</file>
+<file name="C:\Users\pH\Desktop\explorateur_fichiers\src\main\java\fr\uvsq\pglp\project\commandes\CommandeNull.java">
+</file>
+<file name="C:\Users\pH\Desktop\explorateur_fichiers\src\main\java\fr\uvsq\pglp\project\commandes\CommandePaste.java">
+</file>
+<file name="C:\Users\pH\Desktop\explorateur_fichiers\src\main\java\fr\uvsq\pglp\project\commandes\CommandeVisu.java">
+</file>
+<file name="C:\Users\pH\Desktop\explorateur_fichiers\src\main\java\fr\uvsq\pglp\project\CommandProcessor.java">
+</file>
+<file name="C:\Users\pH\Desktop\explorateur_fichiers\src\main\java\fr\uvsq\pglp\project\display\Color.java">
+</file>
+<file name="C:\Users\pH\Desktop\explorateur_fichiers\src\main\java\fr\uvsq\pglp\project\display\Display.java">
+</file>
+<file name="C:\Users\pH\Desktop\explorateur_fichiers\src\main\java\fr\uvsq\pglp\project\display\TerminalDisplay.java">
+</file>
+<file name="C:\Users\pH\Desktop\explorateur_fichiers\src\main\java\fr\uvsq\pglp\project\display\UiDisplay.java">
+</file>
+<file name="C:\Users\pH\Desktop\explorateur_fichiers\src\main\java\fr\uvsq\pglp\project\Er.java">
+</file>
+<file name="C:\Users\pH\Desktop\explorateur_fichiers\src\main\java\fr\uvsq\pglp\project\Fichier.java">
+<error line="26" column="5" severity="warning" message="&apos;try resource&apos; au niveau d&apos;indentation 4 n&apos;est pas indenté correctement, le niveau attendu est 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+</file>
+<file name="C:\Users\pH\Desktop\explorateur_fichiers\src\main\java\fr\uvsq\pglp\project\interpreter\CommandInterpreter.java">
+</file>
+<file name="C:\Users\pH\Desktop\explorateur_fichiers\src\main\java\fr\uvsq\pglp\project\interpreter\TerminalInterpreter.java">
+</file>
+<file name="C:\Users\pH\Desktop\explorateur_fichiers\src\main\java\fr\uvsq\pglp\project\interpreter\UiInterpreter.java">
+</file>
+<file name="C:\Users\pH\Desktop\explorateur_fichiers\src\main\java\fr\uvsq\pglp\project\Notes.java">
+</file>
+<file name="C:\Users\pH\Desktop\explorateur_fichiers\src\main\java\fr\uvsq\pglp\project\OperationType.java">
+</file>
+<file name="C:\Users\pH\Desktop\explorateur_fichiers\src\main\java\fr\uvsq\pglp\project\Repertoire.java">
+</file>
+</checkstyle>
